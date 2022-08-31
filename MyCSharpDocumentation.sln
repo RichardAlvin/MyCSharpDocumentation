@@ -14,11 +14,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GetStarted-Types", "GetStarted-Types\GetStarted-Types.csproj", "{3F999403-E54F-45FE-A237-6F717A4770EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetStarted-ProgramBuildingBlocks", "GetStarted-ProgramBuildingBlocks\GetStarted-ProgramBuildingBlocks.csproj", "{76D75CA7-DDD4-46C8-88A0-087A36D70508}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GetStarted-ProgramBuildingBlocks", "GetStarted-ProgramBuildingBlocks\GetStarted-ProgramBuildingBlocks.csproj", "{76D75CA7-DDD4-46C8-88A0-087A36D70508}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetStarted-MajorLanguageAreas", "GetStarted-MajorLanguageAreas\GetStarted-MajorLanguageAreas.csproj", "{F3279E45-A394-4EF6-B766-84E9EF969842}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GetStarted-MajorLanguageAreas", "GetStarted-MajorLanguageAreas\GetStarted-MajorLanguageAreas.csproj", "{F3279E45-A394-4EF6-B766-84E9EF969842}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fundamental-ProgramStructure-MainMethod", "Fundamental-ProgramStructure-MainMethod\Fundamental-ProgramStructure-MainMethod.csproj", "{2E3563B8-CEAD-4149-BC26-76D6B223CC41}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fundamental-ProgramStructure-MainMethod", "Fundamental-ProgramStructure-MainMethod\Fundamental-ProgramStructure-MainMethod.csproj", "{2E3563B8-CEAD-4149-BC26-76D6B223CC41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectionsGuide", "Collections\CollectionsGuide.csproj", "{B39D3E9C-6169-4563-BB37-32A4C489CFCD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -50,6 +52,10 @@ Global
 		{2E3563B8-CEAD-4149-BC26-76D6B223CC41}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E3563B8-CEAD-4149-BC26-76D6B223CC41}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E3563B8-CEAD-4149-BC26-76D6B223CC41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B39D3E9C-6169-4563-BB37-32A4C489CFCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B39D3E9C-6169-4563-BB37-32A4C489CFCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B39D3E9C-6169-4563-BB37-32A4C489CFCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B39D3E9C-6169-4563-BB37-32A4C489CFCD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
