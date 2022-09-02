@@ -22,7 +22,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fundamental-ProgramStructur
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CollectionsGuide", "Collections\CollectionsGuide.csproj", "{B39D3E9C-6169-4563-BB37-32A4C489CFCD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ", "LINQ\LINQ.csproj", "{BCC1BDAC-DE11-4F75-8748-8D91349B4A64}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQ", "LINQ\LINQ.csproj", "{BCC1BDAC-DE11-4F75-8748-8D91349B4A64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountOccurenceWithLINQ", "CountOccurenceWithLINQ\CountOccurenceWithLINQ.csproj", "{D7230B4D-2910-4F36-B01F-980F2E3ED90D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -62,6 +64,10 @@ Global
 		{BCC1BDAC-DE11-4F75-8748-8D91349B4A64}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCC1BDAC-DE11-4F75-8748-8D91349B4A64}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCC1BDAC-DE11-4F75-8748-8D91349B4A64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7230B4D-2910-4F36-B01F-980F2E3ED90D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7230B4D-2910-4F36-B01F-980F2E3ED90D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7230B4D-2910-4F36-B01F-980F2E3ED90D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7230B4D-2910-4F36-B01F-980F2E3ED90D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

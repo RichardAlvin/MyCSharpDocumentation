@@ -48,7 +48,9 @@ IEnumerable<Student> studentQuery =
 
 var studentQuery2 =
     from student in students
-    group student by student.Last[0];
+    group student by student.Last[0] into studentGroup
+    orderby studentGroup.Key
+    select studentGroup;
 
 foreach (Student student in studentQuery)
 {
